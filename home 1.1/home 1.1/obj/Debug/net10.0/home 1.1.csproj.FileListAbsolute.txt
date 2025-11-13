@@ -1,0 +1,14 @@
+C:\Users\Кристина\Desktop\Технологии программирования\home 1.1\home 1.1\bin\Debug\net10.0\home 1.1.exe
+C:\Users\Кристина\Desktop\Технологии программирования\home 1.1\home 1.1\bin\Debug\net10.0\home 1.1.deps.json
+C:\Users\Кристина\Desktop\Технологии программирования\home 1.1\home 1.1\bin\Debug\net10.0\home 1.1.runtimeconfig.json
+C:\Users\Кристина\Desktop\Технологии программирования\home 1.1\home 1.1\bin\Debug\net10.0\home 1.1.dll
+C:\Users\Кристина\Desktop\Технологии программирования\home 1.1\home 1.1\bin\Debug\net10.0\home 1.1.pdb
+C:\Users\Кристина\Desktop\Технологии программирования\home 1.1\home 1.1\obj\Debug\net10.0\home 1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кристина\Desktop\Технологии программирования\home 1.1\home 1.1\obj\Debug\net10.0\home 1.1.AssemblyInfoInputs.cache
+C:\Users\Кристина\Desktop\Технологии программирования\home 1.1\home 1.1\obj\Debug\net10.0\home 1.1.AssemblyInfo.cs
+C:\Users\Кристина\Desktop\Технологии программирования\home 1.1\home 1.1\obj\Debug\net10.0\home 1.1.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Desktop\Технологии программирования\home 1.1\home 1.1\obj\Debug\net10.0\home 1.1.dll
+C:\Users\Кристина\Desktop\Технологии программирования\home 1.1\home 1.1\obj\Debug\net10.0\refint\home 1.1.dll
+C:\Users\Кристина\Desktop\Технологии программирования\home 1.1\home 1.1\obj\Debug\net10.0\home 1.1.pdb
+C:\Users\Кристина\Desktop\Технологии программирования\home 1.1\home 1.1\obj\Debug\net10.0\home 1.1.genruntimeconfig.cache
+C:\Users\Кристина\Desktop\Технологии программирования\home 1.1\home 1.1\obj\Debug\net10.0\ref\home 1.1.dll
