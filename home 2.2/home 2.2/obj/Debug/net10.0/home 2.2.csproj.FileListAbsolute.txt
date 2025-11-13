@@ -1,0 +1,14 @@
+C:\Users\Кристина\Desktop\Технологии программирования\home 2.2\home 2.2\bin\Debug\net10.0\home 2.2.exe
+C:\Users\Кристина\Desktop\Технологии программирования\home 2.2\home 2.2\bin\Debug\net10.0\home 2.2.deps.json
+C:\Users\Кристина\Desktop\Технологии программирования\home 2.2\home 2.2\bin\Debug\net10.0\home 2.2.runtimeconfig.json
+C:\Users\Кристина\Desktop\Технологии программирования\home 2.2\home 2.2\bin\Debug\net10.0\home 2.2.dll
+C:\Users\Кристина\Desktop\Технологии программирования\home 2.2\home 2.2\bin\Debug\net10.0\home 2.2.pdb
+C:\Users\Кристина\Desktop\Технологии программирования\home 2.2\home 2.2\obj\Debug\net10.0\home 2.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кристина\Desktop\Технологии программирования\home 2.2\home 2.2\obj\Debug\net10.0\home 2.2.AssemblyInfoInputs.cache
+C:\Users\Кристина\Desktop\Технологии программирования\home 2.2\home 2.2\obj\Debug\net10.0\home 2.2.AssemblyInfo.cs
+C:\Users\Кристина\Desktop\Технологии программирования\home 2.2\home 2.2\obj\Debug\net10.0\home 2.2.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Desktop\Технологии программирования\home 2.2\home 2.2\obj\Debug\net10.0\home 2.2.dll
+C:\Users\Кристина\Desktop\Технологии программирования\home 2.2\home 2.2\obj\Debug\net10.0\refint\home 2.2.dll
+C:\Users\Кристина\Desktop\Технологии программирования\home 2.2\home 2.2\obj\Debug\net10.0\home 2.2.pdb
+C:\Users\Кристина\Desktop\Технологии программирования\home 2.2\home 2.2\obj\Debug\net10.0\home 2.2.genruntimeconfig.cache
+C:\Users\Кристина\Desktop\Технологии программирования\home 2.2\home 2.2\obj\Debug\net10.0\ref\home 2.2.dll
